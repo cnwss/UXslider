@@ -1,0 +1,29 @@
+/*css*/
+#slider {                     /*selve slider*/
+    width: 720px;
+    height: 400px;
+    overflow: hidden;
+    margin-left: 330px;
+}
+
+#slider .slides {              /*selve slidesne*/
+    display: block;
+    width: 6000px;
+    height: 400px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#slider .slide {              /*hvordan img slider*/
+    float: left;
+    list-style-type: none;
+    width: 720px;
+    height: 400px;
+}
+
+
+.slide1 {background: white;}  /*slider baggrundsfarve*/
+.slide2 {background: white;}
+.slide3 {background: white;}
+.slide4 {background: white;}
+.slide5 {background: white;}
